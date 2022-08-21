@@ -25,4 +25,5 @@ cd get-started
 git checkout -b <your-branch-name>
 ```
 5.  Open your project in your favourite Editor e.g vscode and add the changes
-6. open readme.md
+6. open CONTRIBUTORS.md add your name in alphabatical order
+7. 
