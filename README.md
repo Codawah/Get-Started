@@ -24,6 +24,12 @@ cd get-started
 ```bash
 git checkout -b <your-branch-name>
 ```
-5.  Open your project in your favourite Editor e.g vscode and add the changes
-6. open CONTRIBUTORS.md add your name in alphabatical order
-7. 
+5.  Open your project in your favourite Editor e.g vscode
+6. Open CONTRIBUTORS.md add your name in alphabatical order
+7. git add CONTRIBUTOR.md
+8. Commit your code
+```bash
+Git commit -m "add <your-github-username>" .Replace your-gihub-username with your github username
+```
+
+
