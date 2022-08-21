@@ -15,7 +15,7 @@ For example, you can use this command inside your terminal /cmd :
 ```bash
 git clone https://github.com/<your-github-username>/Get-Started.git
 ```
-3. Go the the project directory: For example.
+3. Go the the project directory: 
 For example, you can use this terminal /cmd and go inside the directory:
 ```bash
 cd get-started
