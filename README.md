@@ -1,5 +1,5 @@
 # Get Started
-A beginner get Started repo to understand the basic philosophy of git and Github.
+A beginner get guide to Started repo to understand the basic philosophy of git and Github.
 
 ## Simple steps to get Started 🚀
 
