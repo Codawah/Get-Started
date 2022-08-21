@@ -1,7 +1,7 @@
 # Get Started
 A beginner get Started repo to understand the basic philosophy of git and Github.
 
-## Simple steps to get Started
+## Simple steps to get Started 🚀
 
 1. Click the "Fork" button on [Get-Started](https://github.com/Codawah/Get-Started) repository
 
@@ -31,5 +31,17 @@ git checkout -b <your-branch-name>
 ```bash
 Git commit -m "add <your-github-username>" .Replace your-gihub-username with your github username
 ```
+9. Push your code
+
+```bash
+Git push origin <branch-name>
+```
+10. Go the the github open your fork, and make pull request.
+
+11. Congratualation 🎊 you successfully contributed 🏁
+12. Do not forget to star ⭐ the repository and follow Codawah
+
+#### Presented By Codawah with ❤️
+
 
 
