@@ -44,6 +44,8 @@ Git push origin <branch-name>
 11. Congratualation 🎊 you successfully contributed 🏁
 12. Do not forget to star ⭐ the repository and follow Codawah
 
+![image](https://user-images.githubusercontent.com/12247382/186510877-9b7960eb-af99-435b-936c-f18da5ae2720.png)
+
 #### Presented with ❤️ By Codawah
 
 
