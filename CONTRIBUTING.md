@@ -1,2 +1,3 @@
 1. Sajjad Hussain
-   2.Ghumman Dilshad
+2. Abdullah Ijaz
+3. Ghumman Dilshad
